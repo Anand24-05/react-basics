@@ -1,2 +1,2 @@
-# SQl-prep
-SQL querries
+# React
+react basics
